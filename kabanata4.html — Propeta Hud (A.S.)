@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="tl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kabanata 4 – Propeta Hud (A.S.)</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Kabanata 4 – Propeta Hud (A.S.)</h1>
+  <a href="../index.html">⬅ Balik sa Home</a>
+</header>
+
+<main>
+  <h2>🌱 Sino si Propeta Hud (A.S.)</h2>
+  <p>Ipinadala siya sa angkan ng ‘Ad, kilala sa kayabangan at pagsamba sa diyus-diyosan.</p>
+
+  <h2>✨ Paanyaya sa Katotohanan</h2>
+  <p>Inanyayahan niya ang kanyang bayan na sumamba sa Allah, talikuran ang kayabangan, at magsisi. Tinanggihan siya ng karamihan.</p>
+
+  <h2>💨 Kaparusahan ng Allah</h2>
+  <p>Ipinaabot sa kanila ang babala: isang malakas at malamig na hangin na winasak ang mga mapagmataas, ngunit iniligtas ang mga nananalig kay Allah.</p>
+
+  <h2>📜 Mga Mahahalagang Aral</h2>
+  <ul>
+    <li>Kayabangan ay humahantong sa kapahamakan</li>
+    <li>Babala ng Allah ay paanyaya sa pagsisisi</li>
+    <li>Pagliligtas ay para sa mga nananalig</li>
+  </ul>
+
+  <h2>📖 Sanggunian sa Qur’an</h2>
+  <ul>
+    <li>Surah Hud (11:50–60)</li>
+    <li>Surah Al-A’raf (7:65–72)</li>
+    <li>Surah Al-Fajr (89:6–8)</li>
+  </ul>
+</main>
+
+<script src="../js/script.js"></script>
+</body>
+</html>
