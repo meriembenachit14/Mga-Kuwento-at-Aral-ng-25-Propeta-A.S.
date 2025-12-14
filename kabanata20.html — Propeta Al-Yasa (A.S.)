@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="tl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kabanata 20 – Propeta Al-Yasa (A.S.)</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Kabanata 20 – Propeta Al-Yasa (A.S.)</h1>
+  <a href="../index.html">⬅ Balik sa Home</a>
+</header>
+
+<main>
+  <h2>🌱 Sino si Propeta Al-Yasa (A.S.)</h2>
+  <p>Kilala sa kanyang kabutihang-loob at pagpapatuloy ng aral ni Ilyas (A.S.), nanatili siyang tapat sa Allah at nagbigay ng aral sa kanyang bayan.</p>
+
+  <h2>📜 Mahahalagang Aral</h2>
+  <ul>
+    <li>Pagpapatuloy ng kabutihan at pananampalataya</li>
+    <li>Pagtuturo at paggabay sa bayan</li>
+    <li>Pananatiling tapat sa Allah sa lahat ng oras</li>
+  </ul>
+
+  <h2>📖 Sanggunian sa Qur’an</h2>
+  <ul>
+    <li>Surah Sad (38:48)</li>
+  </ul>
+</main>
+
+<script src="../js/script.js"></script>
+</body>
+</html>
