@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="tl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kabanata 23 – Propeta Yahya (A.S.)</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Kabanata 23 – Propeta Yahya (A.S.)</h1>
+  <a href="../index.html">⬅ Balik sa Home</a>
+</header>
+
+<main>
+  <h2>🌱 Sino si Propeta Yahya (A.S.)</h2>
+  <p>Anak ni Propeta Zakariya (A.S.), kilala sa kanyang kabanalan, katapangan, at aral sa pananampalataya.</p>
+
+  <h2>✨ Pagtuturo at Pamumuno</h2>
+  <p>Itinuro niya sa kanyang bayan ang katarungan, kabanalan, at tamang pamumuhay. Pinanatili niya ang kabutihan at katotohanan sa kabila ng panganib.</p>
+
+  <h2>📜 Mahahalagang Aral</h2>
+  <ul>
+    <li>Pagtuturo ng kabutihan at katotohanan</li>
+    <li>Pananatiling tapat sa Allah</li>
+    <li>Kababaang-loob at katarungan sa pamumuno</li>
+  </ul>
+
+  <h2>📖 Sanggunian sa Qur’an</h2>
+  <ul>
+    <li>Surah Maryam (19:7–15)</li>
+    <li>Surah Al-An‘am (6:85)</li>
+  </ul>
+</main>
+
+<script src="../js/script.js"></script>
+</body>
+</html>
