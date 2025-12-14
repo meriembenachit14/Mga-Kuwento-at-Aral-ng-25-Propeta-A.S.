@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="tl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kabanata 19 – Propeta Ilyas (A.S.)</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Kabanata 19 – Propeta Ilyas (A.S.)</h1>
+  <a href="../index.html">⬅ Balik sa Home</a>
+</header>
+
+<main>
+  <h2>🌱 Sino si Propeta Ilyas (A.S.)</h2>
+  <p>Ipinadala sa mga tao upang itakwil ang pagsamba sa Ba‘al at ibalik ang pagsamba sa iisang Allah.</p>
+
+  <h2>✨ Paanyaya at Pagtanggi</h2>
+  <p>Ipinaalala niya ang katarungan at pananampalataya sa gitna ng pagkaligaw ng mga tao. Tinanggihan siya ng karamihan at naharap sa matinding pagsubok.</p>
+
+  <h2>📜 Mahahalagang Aral</h2>
+  <ul>
+    <li>Pananampalataya sa gitna ng panliligaw</li>
+    <li>Paanyaya sa katotohanan ay tungkulin ng propeta</li>
+    <li>Pagtitiis sa pagtanggi ng mga tao</li>
+  </ul>
+
+  <h2>📖 Sanggunian sa Qur’an</h2>
+  <ul>
+    <li>Surah As-Saffat (37:123–132)</li>
+  </ul>
+</main>
+
+<script src="../js/script.js"></script>
+</body>
+</html>
