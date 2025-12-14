@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="tl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kabanata 6 – Propeta Ibrahim (A.S.)</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Kabanata 6 – Propeta Ibrahim (A.S.)</h1>
+  <a href="../index.html">⬅ Balik sa Home</a>
+</header>
+
+<main>
+  <h2>🌱 Sino si Propeta Ibrahim (A.S.)</h2>
+  <p>Ama ng Monoteismo, huwaran ng pananampalataya at ganap na pagsuko sa Allah.</p>
+
+  <h2>🗣️ Paghahanap sa Katotohanan</h2>
+  <p>Mula sa murang edad, tinanong ang pagsamba sa diyus-diyosan. Napagtanto niyang ang Tagapaglikha lamang ang dapat sambahin.</p>
+
+  <h2>🔥 Ang Apoy na Ligtas</h2>
+  <p>Itinapon siya sa apoy ngunit ginawang malamig at ligtas ng Allah bilang tanda ng Kanyang kapangyarihan.</p>
+
+  <h2>🕋 Pagtatayo ng Ka‘bah</h2>
+  <p>Kasama si Ismail (A.S.), itinayo niya ang Ka‘bah at nanalangin sa Allah.</p>
+
+  <h2>📜 Mga Mahahalagang Aral</h2>
+  <ul>
+    <li>Tunay na pananampalataya ay nakabatay sa katotohanan</li>
+    <li>Pagtitiwala sa Allah ay nagdadala ng kapayapaan</li>
+    <li>Pagsubok ay bahagi ng pagiging malapit sa Allah</li>
+  </ul>
+
+  <h2>📖 Sanggunian sa Qur’an</h2>
+  <ul>
+    <li>Surah Al-An‘am (6:74–83)</li>
+    <li>Surah Al-Anbiya (21:51–70)</li>
+    <li>Surah As-Saffat (37:83–111)</li>
+    <li>Surah Al-Baqarah (2:124–129)</li>
+  </ul>
+</main>
+
+<script src="../js/script.js"></script>
+</body>
+</html>
