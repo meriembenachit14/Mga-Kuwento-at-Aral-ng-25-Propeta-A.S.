@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="tl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kabanata 1 – Propeta Adam (A.S.)</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Kabanata 1 – Propeta Adam (A.S.)</h1>
+  <a href="../index.html">⬅ Balik sa Home</a>
+</header>
+
+<main>
+  <h2>🌱 Sino si Propeta Adam (A.S.)</h2>
+  <p>Si <strong>Propeta Adam (A.S.)</strong> ang kauna‑unahang tao at propeta. Siya ang ama ng sangkatauhan, nilikha ng Allah mula sa lupa at hinipan ng espiritu ng buhay.</p>
+
+  <h2>✨ Ang Paglikha kay Adam (A.S.)</h2>
+  <p>Ipinahayag ng Allah sa mga anghel na Siya ay lilikha ng isang <em>khalifah</em> (tagapangasiwa) sa mundo. Tinuro ng Allah kay Adam ang mga pangalan ng lahat ng bagay — isang kaalaman na hindi ibinigay kahit sa mga anghel.</p>
+
+  <h2>🕊️ Ang Pagpapatirapa ng mga Anghel</h2>
+  <p>Inutusan ng Allah ang lahat ng anghel na magpatirapa bilang paggalang kay Adam (A.S.). Lahat sumunod maliban kay <strong>Iblis</strong>, na tumanggi dahil sa kayabangan at pinalayas mula sa langit.</p>
+
+  <h2>🌸 Si Hawa at ang Hardin ng Paraiso</h2>
+  <p>Nilalang ng Allah si <strong>Hawa</strong> bilang kasama ni Adam (A.S.). Sila ay nanirahan sa <em>Paraiso</em> at pinahintulutan tamasahin ang biyaya maliban sa isang ipinagbabawal na puno.</p>
+
+  <h2>🌧️ Pagsisisi at Kapatawaran</h2>
+  <p>Dahil sa panlilinlang ni Iblis, kumain sila mula sa ipinagbabawal na puno. Nang sila ay nagsisi, tinanggap ng Allah ang kanilang pagsisisi at ipinadala sila sa mundo upang magpatuloy ng buhay.</p>
+
+  <h2>📜 Mga Mahahalagang Aral</h2>
+  <ul>
+    <li>Pagmamataas ay ugat ng kasamaan</li>
+    <li>Pagsisisi ay daan sa kapatawaran</li>
+    <li>Allah ay laging maawain</li>
+    <li>Kaalaman ay biyaya mula sa Allah</li>
+  </ul>
+
+  <h2>📖 Sanggunian sa Qur’an</h2>
+  <ul>
+    <li>Surah Al‑Baqarah (2:30–39)</li>
+    <li>Surah Al‑A’raf (7:11–27)</li>
+    <li>Surah Ta‑Ha (20:115–123)</li>
+  </ul>
+</main>
+
+<script src="../js/script.js"></script>
+</body>
+</html>
