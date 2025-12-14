@@ -12,6 +12,7 @@
       color: #333;
       margin: 0;
       padding: 0;
+      transition: background-color 0.3s, color 0.3s;
     }
     header {
       background-color: #8e44ad;
@@ -24,30 +25,29 @@
       margin: 20px auto;
       padding: 10px 20px;
     }
-    h1 {
-      margin: 0;
-    }
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
-    li {
-      margin: 10px 0;
-    }
-    a {
-      text-decoration: none;
+    h1 { margin: 0; }
+    ul { list-style-type: none; padding: 0; }
+    li { margin: 10px 0; }
+    a { text-decoration: none; color: #8e44ad; font-weight: bold; }
+    a:hover { text-decoration: underline; }
+    footer { text-align: center; padding: 15px; margin-top: 30px; background-color: #f1e6f9; }
+
+    body.dark-mode { background-color: #1e1e1e; color: #f0f0f0; }
+    body.dark-mode a { color: #ffa500; }
+    body.dark-mode header { background-color: #333; }
+    body.dark-mode footer { background-color: #222; }
+
+    #theme-toggle {
+      margin-top: 10px;
+      padding: 8px 12px;
+      cursor: pointer;
+      border: none;
+      border-radius: 5px;
+      font-size: 14px;
+      background-color: #fff;
       color: #8e44ad;
-      font-weight: bold;
     }
-    a:hover {
-      text-decoration: underline;
-    }
-    footer {
-      text-align: center;
-      padding: 15px;
-      margin-top: 30px;
-      background-color: #f1e6f9;
-    }
+    body.dark-mode #theme-toggle { background-color: #8e44ad; color: #fff; }
   </style>
 </head>
 <body>
@@ -55,6 +55,7 @@
 <header>
   <h1>📖 Mga Kuwento ng mga Propeta (A.S.)</h1>
   <p>Alamin ang buhay at aral ng bawat Propeta ayon sa Qur’an, isinalin sa Tagalog.</p>
+  <button id="theme-toggle">🌙 Dark Mode</button>
 </header>
 
 <main>
@@ -62,35 +63,4 @@
   <ul>
     <li><a href="pages/kabanata1.html">Kabanata 1 – Propeta Adam (A.S.)</a></li>
     <li><a href="pages/kabanata2.html">Kabanata 2 – Propeta Idris (A.S.)</a></li>
-    <li><a href="pages/kabanata3.html">Kabanata 3 – Propeta Nuh (A.S.)</a></li>
-    <li><a href="pages/kabanata4.html">Kabanata 4 – Propeta Hud (A.S.)</a></li>
-    <li><a href="pages/kabanata5.html">Kabanata 5 – Propeta Salih (A.S.)</a></li>
-    <li><a href="pages/kabanata6.html">Kabanata 6 – Propeta Ibrahim (A.S.)</a></li>
-    <li><a href="pages/kabanata7.html">Kabanata 7 – Propeta Lut (A.S.)</a></li>
-    <li><a href="pages/kabanata8.html">Kabanata 8 – Propeta Ismail (A.S.)</a></li>
-    <li><a href="pages/kabanata9.html">Kabanata 9 – Propeta Ishaq (A.S.)</a></li>
-    <li><a href="pages/kabanata10.html">Kabanata 10 – Propeta Ya‘qub (A.S.)</a></li>
-    <li><a href="pages/kabanata11.html">Kabanata 11 – Propeta Yusuf (A.S.)</a></li>
-    <li><a href="pages/kabanata12.html">Kabanata 12 – Propeta Ayyub (A.S.)</a></li>
-    <li><a href="pages/kabanata13.html">Kabanata 13 – Propeta Dhul-Kifl (A.S.)</a></li>
-    <li><a href="pages/kabanata14.html">Kabanata 14 – Propeta Shu‘ayb (A.S.)</a></li>
-    <li><a href="pages/kabanata15.html">Kabanata 15 – Propeta Musa (A.S.)</a></li>
-    <li><a href="pages/kabanata16.html">Kabanata 16 – Propeta Harun (A.S.)</a></li>
-    <li><a href="pages/kabanata17.html">Kabanata 17 – Propeta Dawud (A.S.)</a></li>
-    <li><a href="pages/kabanata18.html">Kabanata 18 – Propeta Sulaiman (A.S.)</a></li>
-    <li><a href="pages/kabanata19.html">Kabanata 19 – Propeta Ilyas (A.S.)</a></li>
-    <li><a href="pages/kabanata20.html">Kabanata 20 – Propeta Al-Yasa (A.S.)</a></li>
-    <li><a href="pages/kabanata21.html">Kabanata 21 – Propeta Yunus (A.S.)</a></li>
-    <li><a href="pages/kabanata22.html">Kabanata 22 – Propeta Zakariya (A.S.)</a></li>
-    <li><a href="pages/kabanata23.html">Kabanata 23 – Propeta Yahya (A.S.)</a></li>
-    <li><a href="pages/kabanata24.html">Kabanata 24 – Propeta Isa (A.S.)</a></li>
-    <li><a href="pages/kabanata25.html">Kabanata 25 – Propeta Muhammad ﷺ</a></li>
-  </ul>
-</main>
-
-<footer>
-  <p>© 2025 Mga Kuwento ng mga Propeta. Lahat ng karapatan ay nakalaan.</p>
-</footer>
-
-</body>
-</html>
+    <li><a href="pages/kabanata3.html">Kabanata 3 – Propeta Nuh (A.S.)<
