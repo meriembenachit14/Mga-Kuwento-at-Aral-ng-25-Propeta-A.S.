@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="tl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kabanata 13 – Propeta Ayyub (A.S.)</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Kabanata 13 – Propeta Ayyub (A.S.)</h1>
+  <a href="../index.html">⬅ Balik sa Home</a>
+</header>
+
+<main>
+  <h2>🌱 Sino si Propeta Ayyub (A.S.)</h2>
+  <p>Kilala sa kanyang matinding pagtitiis, pananampalataya, at kabutihang-loob sa kabila ng malubhang karamdaman at kahirapan.</p>
+
+  <h2>✨ Pagsubok at Pagtitiis</h2>
+  <p>Nakararanas siya ng matinding sakit at pagkawala ng ari-arian, pamilya, at kalusugan, ngunit nanatiling tapat sa Allah at hindi nawalan ng pananampalataya.</p>
+
+  <h2>🕊️ Kapatawaran at Biyaya</h2>
+  <p>Matapos ang mahabang pagsubok, pinarangalan siya ng Allah sa kalusugan, pamilya, at kayamanan bilang gantimpala sa kanyang pagtitiis at pananampalataya.</p>
+
+  <h2>📜 Mga Mahahalagang Aral</h2>
+  <ul>
+    <li>Pagtitiis sa pagsubok ay nagdudulot ng gantimpala</li>
+    <li>Pananampalataya sa Allah sa kabila ng paghihirap</li>
+    <li>Pasensya at kabutihang-loob ay mahalaga sa buhay</li>
+  </ul>
+
+  <h2>📖 Sanggunian sa Qur’an</h2>
+  <ul>
+    <li>Surah Sad (38:41–44)</li>
+    <li>Surah Al-Anbiya (21:83–84)</li>
+  </ul>
+</main>
+
+<script src="../js/script.js"></script>
+</body>
+</html>
