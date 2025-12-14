@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="tl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kabanata 12 – Propeta Shu‘ayb (A.S.)</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Kabanata 12 – Propeta Shu‘ayb (A.S.)</h1>
+  <a href="../index.html">⬅ Balik sa Home</a>
+</header>
+
+<main>
+  <h2>🌱 Sino si Propeta Shu‘ayb (A.S.)</h2>
+  <p>Ipinadala sa angkan ng Madyan upang ituro ang katarungan at iwasan ang pandaraya sa kalakalan.</p>
+
+  <h2>✨ Paanyaya at Babala</h2>
+  <p>Inanyayahan niya ang kanyang bayan na sumamba sa Allah at maging tapat sa kanilang kalakalan, ngunit tinanggihan siya.</p>
+
+  <h2>⚡ Kaparusahan</h2>
+  <p>Ipinaabot ng Allah ang kaparusahan sa pamamagitan ng lindol at pagkawasak sa mga taong nanatiling makasalanan.</p>
+
+  <h2>📜 Mga Mahahalagang Aral</h2>
+  <ul>
+    <li>Pagsunod sa katarungan at integridad</li>
+    <li>Babala sa kasamaan ay paanyaya sa pagsisisi</li>
+    <li>Pananalig sa Allah sa gitna ng pagtanggi</li>
+  </ul>
+
+  <h2>📖 Sanggunian sa Qur’an</h2>
+  <ul>
+    <li>Surah Hud (11:84–95)</li>
+    <li>Surah Al-A‘raf (7:85–93)</li>
+  </ul>
+</main>
+
+<script src="../js/script.js"></script>
+</body>
+</html>
