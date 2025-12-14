@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="tl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kabanata 9 – Propeta Ishaq (A.S.)</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Kabanata 9 – Propeta Ishaq (A.S.)</h1>
+  <a href="../index.html">⬅ Balik sa Home</a>
+</header>
+
+<main>
+  <h2>🌱 Sino si Propeta Ishaq (A.S.)</h2>
+  <p>Si Propeta Ishaq (A.S.) ay anak ni Propeta Ibrahim (A.S.) at Sarah. Siya ay kilala sa kabutihan, karunungan, at pagiging mapagmahal sa kanyang pamilya.</p>
+
+  <h2>✨ Kabutihan at Pamumuno</h2>
+  <p>Pinagpala siya ng Allah na mamuno sa kanyang bayan at ipagpatuloy ang katuruan ng kanyang ama. Pinanatili niya ang kabutihan at pananampalataya sa pamilya at komunidad.</p>
+
+  <h2>📜 Mga Mahahalagang Aral</h2>
+  <ul>
+    <li>Pagmamahal at respeto sa pamilya</li>
+    <li>Pananatiling matapat sa Allah</li>
+    <li>Pangangalaga sa pamayanan at kabanalan</li>
+  </ul>
+
+  <h2>📖 Sanggunian sa Qur’an</h2>
+  <ul>
+    <li>Surah Al-Baqarah (2:133–136)</li>
+    <li>Surah Ibrahim (14:39–41)</li>
+  </ul>
+</main>
+
+<script src="../js/script.js"></script>
+</body>
+</html>
