@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="tl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kabanata 17 – Propeta Dawud (A.S.)</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Kabanata 17 – Propeta Dawud (A.S.)</h1>
+  <a href="../index.html">⬅ Balik sa Home</a>
+</header>
+
+<main>
+  <h2>🌱 Sino si Propeta Dawud (A.S.)</h2>
+  <p>Pinuno at hari ng Bani Israel, kilala sa kanyang katarungan, tapang, at kasanayan sa pag-awit at musika.</p>
+
+  <h2>✨ Paglaban kay Goliath</h2>
+  <p>Sa murang edad, tinalo niya si Goliath sa tulong ng Allah, at naging huwaran ng tapang at pananampalataya.</p>
+
+  <h2>📜 Mahahalagang Aral</h2>
+  <ul>
+    <li>Katarungan sa pamumuno</li>
+    <li>Pagtitiwala sa Allah sa laban at desisyon</li>
+    <li>Paggamit ng talento para sa kabutihan</li>
+  </ul>
+
+  <h2>📖 Sanggunian sa Qur’an</h2>
+  <ul>
+    <li>Surah Sad (38:17–26)</li>
+    <li>Surah Al-Baqarah (2:251)</li>
+  </ul>
+</main>
+
+<script src="../js/script.js"></script>
+</body>
+</html>
