@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="tl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kabanata 16 – Propeta Harun (A.S.)</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Kabanata 16 – Propeta Harun (A.S.)</h1>
+  <a href="../index.html">⬅ Balik sa Home</a>
+</header>
+
+<main>
+  <h2>🌱 Sino si Propeta Harun (A.S.)</h2>
+  <p>Kapatid ni Musa (A.S.) at katuwang sa pagliligtas ng Bani Israel, kilala sa kanyang pasensya, kabutihang-loob, at pamumuno.</p>
+
+  <h2>✨ Pagtulong kay Musa (A.S.)</h2>
+  <p>Iniligtas niya ang kanyang bayan sa pamumuno ni Musa at tinulungan itong itaguyod ang aral ng Allah sa gitna ng pagsubok at pagtanggi ng mga tao.</p>
+
+  <h2>📜 Mahahalagang Aral</h2>
+  <ul>
+    <li>Pagtutulungan sa kabutihan</li>
+    <li>Pagtitiyaga sa pagtuturo ng katotohanan</li>
+    <li>Pagiging huwaran sa pamumuno at pananampalataya</li>
+  </ul>
+
+  <h2>📖 Sanggunian sa Qur’an</h2>
+  <ul>
+    <li>Surah Al-A’raf (7:142–145)</li>
+    <li>Surah Ta-Ha (20:29–36)</li>
+  </ul>
+</main>
+
+<script src="../js/script.js"></script>
+</body>
+</html>
