@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="tl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kabanata 5 – Propeta Salih (A.S.)</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Kabanata 5 – Propeta Salih (A.S.)</h1>
+  <a href="../index.html">⬅ Balik sa Home</a>
+</header>
+
+<main>
+  <h2>🌱 Sino si Propeta Salih (A.S.)</h2>
+  <p>Ipinadala sa angkan ng Thamud na masagana ngunit lumalayo sa Allah.</p>
+
+  <h2>✨ Paanyaya at Himala</h2>
+  <p>Inanyayahan niya ang bayan na sumamba sa Allah at ipinakita ang babaeng kamelyo bilang tanda. Binalaan na huwag saktan ito.</p>
+
+  <h2>❌ Pagsuway at Kaparusahan</h2>
+  <p>Sa kabila ng babala, pinatay nila ang kamelyo. Ipinadala ng Allah ang malakas na sigaw at lindol na sumira sa Thamud.</p>
+
+  <h2>📜 Mahahalagang Aral</h2>
+  <ul>
+    <li>Himala ay patunay, hindi garantiya ng pananampalataya</li>
+    <li>Pagsuway ay may mabigat na kaparusahan</li>
+    <li>Pagsunod ay nagdadala ng kaligtasan</li>
+  </ul>
+
+  <h2>📖 Sanggunian sa Qur’an</h2>
+  <ul>
+    <li>Surah Hud (11:61–68)</li>
+    <li>Surah Ash-Shams (91:11–15)</li>
+    <li>Surah Al-A’raf (7:73–79)</li>
+  </ul>
+</main>
+
+<script src="../js/script.js"></script>
+</body>
+</html>
