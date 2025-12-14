@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="tl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kabanata 14 – Propeta Dhul-Kifl (A.S.)</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Kabanata 14 – Propeta Dhul-Kifl (A.S.)</h1>
+  <a href="../index.html">⬅ Balik sa Home</a>
+</header>
+
+<main>
+  <h2>🌱 Sino si Propeta Dhul-Kifl (A.S.)</h2>
+  <p>Kilala sa kanyang katarungan, pagtitiis, at dedikasyon sa paglilingkod sa Allah. Siya ay tinuturing na isa sa mga propeta ng Allah na nagpakita ng kabutihang-loob at prinsipyo.</p>
+
+  <h2>✨ Buhay at Pananampalataya</h2>
+  <p>Pinanatili niya ang katarungan at pananampalataya sa kanyang bayan, nagbibigay ng aral at payo upang mamuhay ng matuwid at makatarungan.</p>
+
+  <h2>📜 Mga Mahahalagang Aral</h2>
+  <ul>
+    <li>Katarungan ay mahalaga sa pamumuno at pamayanan</li>
+    <li>Pagtitiis at dedikasyon sa paglilingkod sa Allah</li>
+    <li>Pangangalaga sa kabutihan ng iba</li>
+  </ul>
+
+  <h2>📖 Sanggunian sa Qur’an</h2>
+  <ul>
+    <li>Surah Al-Anbiya (21:85–86)</li>
+    <li>Surah Sad (38:48)</li>
+  </ul>
+</main>
+
+<script src="../js/script.js"></script>
+</body>
+</html>
